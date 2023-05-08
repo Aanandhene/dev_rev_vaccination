@@ -3,7 +3,7 @@
 
 <p id="description">In this Vaccination Booking there are two types of users (admin user). We can easily find the nearby vaccination center and we can book the vaccine.</p>
 
-<h2>🚀 Project Link/h2>
+<h2>🚀 Project Link </h2>
 
 [https://dev-rev-hosted.onrender.com](https://dev-rev-hosted.onrender.com)
 
